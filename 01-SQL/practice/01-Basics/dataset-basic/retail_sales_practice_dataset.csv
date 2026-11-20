@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Region,Quantity,UnitPrice,Discount,PaymentMethod,OrderStatus
+1,2025-11-24,1004,Priya Singh,Laptop,Electronics,South,5,65000,0.05,Debit Card,Completed
+2,2025-12-13,1018,Ira Saxena,Mouse,Electronics,North,7,800,0.0,Credit Card,Completed
+3,2025-04-30,1017,Dev Khanna,Backpack,Accessories,South,1,1800,0.2,Net Banking,Pending
+4,2025-04-23,1015,Reyansh Jain,Backpack,Accessories,South,5,1800,0.0,Cash,Completed
+5,2025-05-23,1005,Ishaan Patel,Monitor,Electronics,North,6,14000,0.0,Cash,Completed
+6,2025-07-03,1012,Diya Malhotra,Backpack,Accessories,West,5,1800,0.0,Net Banking,Completed
+7,2025-07-13,1003,Rohan Gupta,Pen Set,Stationery,East,5,250,0.2,Net Banking,Completed
+8,2025-12-27,1003,Rohan Gupta,Laptop,Electronics,North,4,65000,0.1,Debit Card,Completed
+9,2025-07-14,1009,Vihaan Kapoor,Notebook,Stationery,East,6,120,0.05,UPI,Completed
+10,2025-12-10,1009,Vihaan Kapoor,Smartphone,Electronics,South,2,28000,0.2,Net Banking,Completed
+11,2025-03-25,1015,Reyansh Jain,Desk,Furniture,South,5,12000,0.2,UPI,Completed
+12,2025-04-28,1002,Ananya Verma,Office Chair,Furniture,North,7,9500,0.1,Debit Card,Cancelled
+13,2025-06-11,1007,Arjun Kumar,Water Bottle,Accessories,West,8,500,0.15,Debit Card,Completed
+14,2025-03-13,1008,Neha Joshi,Smartphone,Electronics,West,5,28000,0.2,Net Banking,Pending
+15,2025-07-05,1008,Neha Joshi,Keyboard,Electronics,North,8,1800,0.0,Credit Card,Completed
+16,2025-11-18,1006,Kavya Mehta,Water Bottle,Accessories,North,7,500,0.2,Cash,Pending
+17,2025-11-02,1015,Reyansh Jain,Pen Set,Stationery,North,5,250,0.2,Credit Card,Cancelled
+18,2025-05-17,1011,Aditya Rao,Mouse,Electronics,South,5,800,0.15,Cash,Completed
+19,2025-05-15,1017,Dev Khanna,Keyboard,Electronics,Central,2,1800,0.1,Net Banking,Completed
+20,2025-03-20,1012,Diya Malhotra,Keyboard,Electronics,East,1,1800,0.2,Cash,Completed
+21,2025-02-27,1012,Diya Malhotra,Headphones,Electronics,South,4,2500,0.0,Net Banking,Completed
+22,2025-02-13,1016,Meera Nair,Mouse,Electronics,West,3,800,0.05,Net Banking,Completed
+23,2025-05-16,1017,Dev Khanna,Backpack,Accessories,Central,7,1800,0.05,Debit Card,Completed
+24,2025-07-24,1012,Diya Malhotra,Notebook,Stationery,South,8,120,0.0,Debit Card,Completed
+25,2025-06-23,1001,Aarav Sharma,Backpack,Accessories,South,4,1800,0.2,Credit Card,Completed
+26,2025-12-29,1002,Ananya Verma,Monitor,Electronics,East,2,14000,0.0,Credit Card,Cancelled
+27,2025-05-02,1009,Vihaan Kapoor,Water Bottle,Accessories,Central,8,500,0.05,Debit Card,Cancelled
+28,2025-10-23,1016,Meera Nair,Monitor,Electronics,South,8,14000,0.15,Credit Card,Completed
+29,2025-12-04,1014,Aanya Choudhary,Office Chair,Furniture,West,7,9500,0.15,Credit Card,Completed
+30,2025-02-01,1013,Kabir Das,Smartphone,Electronics,South,6,28000,0.0,Debit Card,Completed
+31,2025-10-02,1015,Reyansh Jain,Keyboard,Electronics,East,7,1800,0.05,Cash,Completed
+32,2025-02-08,1015,Reyansh Jain,Pen Set,Stationery,Central,2,250,0.0,Credit Card,Completed
+33,2025-05-02,1006,Kavya Mehta,Desk,Furniture,South,8,12000,0.15,Cash,Completed
+34,2025-03-26,1013,Kabir Das,Laptop,Electronics,West,7,65000,0.1,UPI,Pending
+35,2025-12-23,1018,Ira Saxena,Water Bottle,Accessories,South,8,500,0.05,UPI,Completed
+36,2025-01-30,1019,Yash Bansal,Smartphone,Electronics,North,1,28000,0.1,Credit Card,Cancelled
+37,2025-09-02,1017,Dev Khanna,Pen Set,Stationery,Central,3,250,0.0,Credit Card,Completed
+38,2025-02-05,1020,Tara Roy,Mouse,Electronics,North,4,800,0.15,Net Banking,Completed
+39,2025-10-24,1020,Tara Roy,Laptop,Electronics,Central,2,65000,0.15,Net Banking,Cancelled
+40,2025-06-11,1009,Vihaan Kapoor,Monitor,Electronics,East,6,14000,0.05,Cash,Completed
+41,2025-12-10,1010,Sanya Mishra,Notebook,Stationery,North,6,120,0.0,Cash,Cancelled
+42,2025-10-16,1004,Priya Singh,Mouse,Electronics,East,4,800,0.2,Debit Card,Completed
+43,2025-02-05,1008,Neha Joshi,Office Chair,Furniture,West,5,9500,0.05,Net Banking,Completed
+44,2025-11-10,1017,Dev Khanna,Laptop,Electronics,South,5,65000,0.0,UPI,Completed
+45,2025-02-24,1018,Ira Saxena,Keyboard,Electronics,Central,5,1800,0.1,Debit Card,Completed
+46,2025-04-15,1009,Vihaan Kapoor,Pen Set,Stationery,North,8,250,0.1,Credit Card,Pending
+47,2025-05-22,1002,Ananya Verma,Laptop,Electronics,East,6,65000,0.05,Debit Card,Pending
+48,2025-10-10,1014,Aanya Choudhary,Pen Set,Stationery,North,1,250,0.0,Debit Card,Cancelled
+49,2025-01-19,1012,Diya Malhotra,Backpack,Accessories,South,3,1800,0.15,Credit Card,Completed
+50,2025-07-06,1002,Ananya Verma,Office Chair,Furniture,North,4,9500,0.05,UPI,Cancelled
+51,2025-07-28,1020,Tara Roy,Smartphone,Electronics,South,3,28000,0.05,Debit Card,Pending
+52,2025-01-13,1006,Kavya Mehta,Smartphone,Electronics,South,6,28000,0.15,UPI,Completed
+53,2025-12-26,1004,Priya Singh,Desk,Furniture,South,1,12000,0.15,Debit Card,Pending
+54,2025-06-29,1010,Sanya Mishra,Monitor,Electronics,South,4,14000,0.0,Cash,Completed
+55,2025-05-23,1003,Rohan Gupta,Headphones,Electronics,West,6,2500,0.2,Net Banking,Completed
+56,2025-01-15,1004,Priya Singh,Headphones,Electronics,East,3,2500,0.2,Credit Card,Completed
+57,2025-11-02,1014,Aanya Choudhary,Office Chair,Furniture,Central,6,9500,0.15,Net Banking,Completed
+58,2025-07-17,1019,Yash Bansal,Monitor,Electronics,West,5,14000,0.0,Credit Card,Cancelled
+59,2025-10-03,1007,Arjun Kumar,Office Chair,Furniture,East,7,9500,0.0,Net Banking,Completed
+60,2025-12-06,1004,Priya Singh,Smartphone,Electronics,East,5,28000,0.2,Cash,Completed
+61,2025-07-26,1010,Sanya Mishra,Pen Set,Stationery,West,3,250,0.05,Cash,Completed
+62,2025-11-12,1019,Yash Bansal,Headphones,Electronics,North,7,2500,0.2,UPI,Completed
+63,2025-04-18,1014,Aanya Choudhary,Backpack,Accessories,West,6,1800,0.15,Cash,Completed
+64,2025-09-19,1016,Meera Nair,Smartphone,Electronics,East,3,28000,0.0,Net Banking,Cancelled
+65,2025-06-21,1003,Rohan Gupta,Monitor,Electronics,South,5,14000,0.05,Debit Card,Completed
+66,2025-01-24,1008,Neha Joshi,Notebook,Stationery,West,2,120,0.15,Net Banking,Completed
+67,2025-12-23,1013,Kabir Das,Notebook,Stationery,South,7,120,0.05,Credit Card,Completed
+68,2025-08-06,1008,Neha Joshi,Keyboard,Electronics,Central,8,1800,0.0,Debit Card,Completed
+69,2025-08-22,1005,Ishaan Patel,Notebook,Stationery,Central,6,120,0.15,Net Banking,Pending
+70,2025-10-08,1015,Reyansh Jain,Keyboard,Electronics,East,8,1800,0.15,Debit Card,Completed
+71,2025-09-24,1016,Meera Nair,Water Bottle,Accessories,West,4,500,0.1,Credit Card,Completed
+72,2025-05-01,1009,Vihaan Kapoor,Office Chair,Furniture,North,6,9500,0.2,Debit Card,Completed
+73,2025-04-29,1013,Kabir Das,Smartphone,Electronics,North,3,28000,0.05,Cash,Pending
+74,2025-06-19,1018,Ira Saxena,Notebook,Stationery,South,7,120,0.0,Cash,Pending
+75,2025-10-27,1001,Aarav Sharma,Backpack,Accessories,North,7,1800,0.15,UPI,Completed
+76,2025-07-19,1014,Aanya Choudhary,Pen Set,Stationery,South,4,250,0.15,UPI,Pending
+77,2025-09-06,1001,Aarav Sharma,Desk,Furniture,South,6,12000,0.15,Cash,Completed
+78,2025-11-15,1018,Ira Saxena,Laptop,Electronics,Central,7,65000,0.2,Credit Card,Completed
+79,2025-11-26,1014,Aanya Choudhary,Keyboard,Electronics,North,8,1800,0.05,UPI,Pending
+80,2025-06-17,1007,Arjun Kumar,Notebook,Stationery,West,6,120,0.1,UPI,Pending
+81,2025-05-10,1003,Rohan Gupta,Notebook,Stationery,North,1,120,0.2,UPI,Completed
+82,2025-11-29,1003,Rohan Gupta,Water Bottle,Accessories,South,1,500,0.0,Debit Card,Completed
+83,2025-11-15,1005,Ishaan Patel,Monitor,Electronics,North,3,14000,0.15,Net Banking,Completed
+84,2025-08-27,1009,Vihaan Kapoor,Office Chair,Furniture,Central,3,9500,0.2,Credit Card,Completed
+85,2025-06-09,1004,Priya Singh,Backpack,Accessories,Central,1,1800,0.1,Cash,Pending
+86,2025-04-12,1003,Rohan Gupta,Backpack,Accessories,East,4,1800,0.0,Net Banking,Completed
+87,2025-10-17,1002,Ananya Verma,Office Chair,Furniture,North,7,9500,0.1,Net Banking,Completed
+88,2025-01-07,1014,Aanya Choudhary,Notebook,Stationery,East,2,120,0.15,Cash,Completed
+89,2025-08-11,1006,Kavya Mehta,Smartphone,Electronics,Central,5,28000,0.2,Cash,Pending
+90,2025-08-12,1019,Yash Bansal,Headphones,Electronics,North,6,2500,0.05,UPI,Pending
+91,2025-05-05,1015,Reyansh Jain,Backpack,Accessories,North,7,1800,0.1,Cash,Completed
+92,2025-04-04,1016,Meera Nair,Monitor,Electronics,East,6,14000,0.1,UPI,Cancelled
+93,2025-12-26,1009,Vihaan Kapoor,Pen Set,Stationery,South,1,250,0.2,Credit Card,Completed
+94,2025-07-28,1016,Meera Nair,Pen Set,Stationery,West,4,250,0.15,Cash,Completed
+95,2025-02-17,1010,Sanya Mishra,Monitor,Electronics,East,7,14000,0.05,Net Banking,Completed
+96,2025-08-31,1018,Ira Saxena,Pen Set,Stationery,Central,6,250,0.15,UPI,Completed
+97,2025-12-26,1015,Reyansh Jain,Headphones,Electronics,South,5,2500,0.1,Credit Card,Completed
+98,2025-06-11,1004,Priya Singh,Smartphone,Electronics,South,3,28000,0.05,Cash,Completed
+99,2025-10-29,1017,Dev Khanna,Backpack,Accessories,South,5,1800,0.0,UPI,Completed
+100,2025-07-04,1006,Kavya Mehta,Headphones,Electronics,South,1,2500,0.2,UPI,Completed
