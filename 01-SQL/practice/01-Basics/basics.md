@@ -1,11 +1,11 @@
-# SQL Practice — Level 1: Beginner
+# SQL Practice — Beginner  questions
 
 **Dataset:** Retail Sales  
 **Table Name:** `RetailSales`  
 **Database:** SQL_Practice  
 **SQL Dialect:** Microsoft SQL Server (T-SQL)  
-**Total Questions:** 35
-
+**Total Questions:** 36
+Note: there is a mistake in this retail sales ie the discount is in time,I have noticed that and write a query 6 to do alter that,try it with your own logic
 ---
 
 ## Section 1: SELECT — Retrieving Data
@@ -24,6 +24,8 @@ Display `CustomerID`, `CustomerName`, `OrderID`, `OrderDate`, and `Region` for a
 
 ### Q005 — Sales Transaction Details
 Retrieve the `OrderID`, `Product`, `Quantity`, `UnitPrice`, `Discount`, and `PaymentMethod` columns.
+
+### Additional question Q006-Alter discount
 
 ---
 
